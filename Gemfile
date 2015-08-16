@@ -10,4 +10,5 @@ gem 'spring', :group => :development
 gem 'sqlite3'
 
 gem 'minitest-rails'
-
+gem 'mechanize'
+gem 'pry-rails', :group => :development
